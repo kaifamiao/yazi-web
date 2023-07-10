@@ -1,2 +1,5 @@
 # yazi-web
-a lightweight c++ web mvc framework
+
+您好，我yazi本人，是yazi-web、yazi-rpc两个框架的原创者，这两个框架由于某些原因已经不再开放，请您将fork出来的代码残酷设置成私有吧，谢谢配合，感激不仅！
+
+
